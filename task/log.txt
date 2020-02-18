@@ -1,0 +1,11 @@
+commit a13825b34c95658addc7cee27ff5d13b0e4d2c2e
+Author: Igor Alfimenkov <igoralfimenkov@gmail.com>
+Date:   Tue Feb 18 13:44:16 2020 +0300
+
+    add status.txt
+
+commit 4509e1631bc24964ce073b2b6f25cb1ba6436121
+Author: Igor Alfimenkov <igoralfimenkov@gmail.com>
+Date:   Mon Feb 17 21:21:20 2020 +0300
+
+    add .gitignore
